@@ -17,6 +17,6 @@
   "devDependencies": {
     "mocha": "^6.2.2",
     "standard": "^8.6.0",
-    "underscore": "^1.8.3"
+    "underscore": "^1.12.1"
   }
 }
